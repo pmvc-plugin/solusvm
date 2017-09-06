@@ -12,7 +12,9 @@
         }
     ],
     "require": {
-        "pmvc/pmvc": "*"
+        "pmvc/pmvc": "*",
+        "pmvc-plugin/curl": "*",
+        "pmvc-plugin/xml": "*"
     },
     "minimum-stability": "dev"
 }
